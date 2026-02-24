@@ -26,13 +26,13 @@
 
 **Morning (~15 min)**
 
-- [ ] Review the [Day 2 word list](week1-words.md#day-2--greetings) — read each word and say it out loud 3x
+- [ ] Review the [Day 2 word list](week1-words.md#day-2-greetings) — read each word and say it out loud 3x
 
 **Evening (~30 min)**
 
 - [ ] Watch: [French greetings — Comme Une Française](https://www.youtube.com/results?search_query=french+greetings+comme+une+francaise)
 - [ ] Practice introducing yourself out loud: "Bonjour, je m'appelle _____. Comment allez-vous?"
-- [ ] Go through the [Day 2 words](week1-words.md#day-2--greetings) again — cover the "Meaning" column and test yourself
+- [ ] Go through the [Day 2 words](week1-words.md#day-2-greetings) again — cover the "Meaning" column and test yourself
 
 ---
 
@@ -40,11 +40,11 @@
 
 **Morning (~15 min)**
 
-- [ ] Review the [subject pronouns table](week1-words.md#day-3--subject-pronouns--etre) — say each one 3x
+- [ ] Review the [subject pronouns table](week1-words.md#day-3-subject-pronouns-etre) — say each one 3x
 
 **Evening (~30 min)**
 
-- [ ] Study the [être conjugation](week1-words.md#day-3--subject-pronouns--etre) — write it out on paper, say each form 3x
+- [ ] Study the [être conjugation](week1-words.md#day-3-subject-pronouns-etre) — write it out on paper, say each form 3x
 - [ ] Practice these sentences out loud:
     - "Je suis _____" (I am _____)
     - "Il est grand" (He is tall)
@@ -61,7 +61,7 @@
 
 **Morning (~15 min)**
 
-- [ ] Review [avoir conjugation](week1-words.md#day-4--avoir-to-have) — say each form 3x
+- [ ] Review [avoir conjugation](week1-words.md#day-4-avoir-to-have) — say each form 3x
 
 **Evening (~30 min)**
 
@@ -82,7 +82,7 @@
 
 **Morning (~15 min)**
 
-- [ ] Review [definite articles](week1-words.md#day-5--articles) (le, la, l', les)
+- [ ] Review [definite articles](week1-words.md#day-5-articles) (le, la, l', les)
 
 **Evening (~30 min)**
 
@@ -99,7 +99,7 @@
 
 **Morning (~15 min)**
 
-- [ ] Review [indefinite articles & negation](week1-words.md#day-6--indefinite-articles--negation) (un, une, des + ne...pas)
+- [ ] Review [indefinite articles & negation](week1-words.md#day-6-indefinite-articles-negation) (un, une, des + ne...pas)
 
 **Evening (~45 min)**
 
