@@ -4,6 +4,39 @@ Words and phrases learned during Week 1 (Feb 23 - Mar 1).
 
 ## Day 1 — Setup
 
+### The French Alphabet
+
+| Letter | French Name | Sounds Like | Watch Out |
+|--------|------------|-------------|-----------|
+| A | ah | "ah" | |
+| B | bé | "bay" | |
+| C | cé | "say" | |
+| D | dé | "day" | |
+| E | euh | "uh" | Not "ee" — sounds like "uh" |
+| F | effe | "eff" | |
+| G | gé | "zhay" | Not "jee" — soft "zh" sound |
+| H | ache | "ash" | Always silent in French |
+| I | ee | "ee" | |
+| J | ji | "zhee" | Not "jay" — soft "zh" sound |
+| K | ka | "ka" | |
+| L | elle | "L" | |
+| M | emme | "em" | |
+| N | enne | "en" | |
+| O | oh | "oh" | |
+| P | pé | "pay" | |
+| Q | ku | "koo" | |
+| R | erre | "air" | Gargle from back of throat |
+| S | esse | "ess" | |
+| T | té | "tay" | |
+| U | u | "oo" lips, "ee" tongue | Doesn't exist in English — practice! |
+| V | vé | "vay" | |
+| W | double vé | "doo-bluh vay" | |
+| X | ixe | "eeks" | |
+| Y | i grec | "ee-GRECK" | Means "Greek i" |
+| Z | zède | "zed" | |
+
+### First Words
+
 | Word | Pronunciation | Sounds Like | Meaning |
 |------|--------------|-------------|---------|
 | Bonjour | bohn-JOOR | "bone-JOOR" | Hello / good day |
