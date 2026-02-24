@@ -1,0 +1,13 @@
+# Private files
+*.local*
+
+# OS
+.DS_Store
+
+# MkDocs build output
+site/
+
+# Python
+__pycache__/
+.venv/
+*.pyc
