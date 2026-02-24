@@ -4,6 +4,8 @@ site_url: ""
 
 theme:
   name: material
+  logo: assets/js.png
+  favicon: assets/js.png
   palette:
     - scheme: default
       primary: indigo
@@ -20,11 +22,18 @@ theme:
   features:
     - navigation.instant
     - navigation.top
+    - navigation.sections
     - content.code.copy
 
 nav:
   - Home: index.md
-  - Word of the Day: word-of-the-day.md
+  - All Words: word-of-the-day.md
+  - Week 1:
+    - Study Plan: week1.md
+    - Words: week1-words.md
+
+extra_css:
+  - stylesheets/extra.css
 
 markdown_extensions:
   - admonition

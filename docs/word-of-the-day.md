@@ -1,31 +1,61 @@
-# Word of the Day
+# All Words
 
-A growing collection of French vocabulary with pronunciation guides and gender tips.
+Master list of every French word and phrase accumulated across all weeks.
 
 ## Essential Words
 
-| Word | Pronunciation | Gender | Quick Tip |
-|------|--------------|--------|-----------|
-| Bon | bohn | Masculine | Used before masculine nouns |
-| Bonne | bun | Feminine | Used before feminine nouns |
-| Nuit | nwee | Feminine | The "t" is silent |
-| Appétit | ah-peh-TEE | Masculine | Stress the last syllable |
-| Voyage | vwah-YAHJ | Masculine | Soft "j" sound at the end |
-| Journée | joor-NAY | Feminine | "Day" (as in "have a good day") |
-| Chance | shahnss | Feminine | Sounds nothing like English "chance" |
+| Word | Pronunciation | Sounds Like | Gender | Quick Tip |
+|------|--------------|-------------|--------|-----------|
+| Bon | bohn | "bone" (without the e) | Masculine | Used before masculine nouns |
+| Bonne | bun | "ban" | Feminine | Used before feminine nouns |
+| Nuit | nwee | "nwee" like "wee!" with an N | Feminine | The "t" is silent |
+| Appétit | ah-peh-TEE | "a-peh-T" (letter T) | Masculine | Stress the last syllable |
+| Voyage | vwah-YAHJ | "vwah-yoj" | Masculine | Soft "j" sound at the end |
+| Journée | joor-NAY | "joor-NAY" like "nay!" | Feminine | "Day" (as in "have a good day") |
+| Chance | shahnss | "shonce" | Feminine | Sounds nothing like English "chance" |
 
 ## Common Phrases
 
-| Phrase | Pronunciation | Meaning |
-|--------|--------------|---------|
-| Bonjour | bohn-JOOR | Hello / good day |
-| Bonsoir | bohn-SWAHR | Good evening |
-| Bonne nuit | bun nwee | Good night (said at bedtime) |
-| Merci | mair-SEE | Thank you |
-| S'il vous plaît | seel voo PLEH | Please (formal) |
-| Oui | wee | Yes |
-| Non | nohn | No — nasal sound, don't say the "n" fully |
-| Au revoir | oh ruh-VWAHR | Goodbye — roll lightly on the "r" |
+| Phrase | Pronunciation | Sounds Like | Meaning |
+|--------|--------------|-------------|---------|
+| Bonjour | bohn-JOOR | "bone-JOOR" | Hello / good day |
+| Bonsoir | bohn-SWAHR | "bone-SWOR" | Good evening |
+| Bonne nuit | bun nwee | "ban wee" | Good night (said at bedtime) |
+| Merci | mair-SEE | "mare-C" (letter C) | Thank you |
+| S'il vous plaît | seel voo PLEH | "seal voo PLAY" (almost) | Please (formal) |
+| Oui | wee | "wee" | Yes |
+| Non | nohn | "no" + hum through nose | No |
+| Au revoir | oh ruh-VWAHR | "oh-ruh-VWOR" | Goodbye |
+
+## Week 1 Words
+
+| Word | Pronunciation | Sounds Like | Meaning |
+|------|--------------|-------------|---------|
+| Je | zhuh | "juh" | I |
+| Tu | tu | "too" | You (informal) |
+| Il | eel | "eel" | He |
+| Elle | el | "L" (letter L) | She |
+| On | ohn | "own" (nasal) | We (informal) / one |
+| Nous | noo | "new" | We (formal) |
+| Vous | voo | "voo" | You (formal or plural) |
+| Ils | eel | "eel" | They (masc.) |
+| Elles | el | "L" (letter L) | They (fem.) |
+| Suis | swee | "swee" | Am (je suis = I am) |
+| Est | eh | "eh" | Is |
+| Sommes | sum | "sum" | Are (nous sommes) |
+| Êtes | et | "et" | Are (vous êtes) |
+| Sont | sohn | "sewn" (nasal) | Are (ils/elles sont) |
+| Ai | ay | "A" (letter A) | Have (j'ai = I have) |
+| As | ah | "ah" | Have (tu as) |
+| Avons | ah-vohn | "a-VON" (like the company) | Have (nous avons) |
+| Avez | ah-vay | "a-VAY" like "hooray" | Have (vous avez) |
+| Ont | ohn | "own" (nasal) | Have (ils/elles ont) |
+| Le | luh | "luh" | The (masculine) |
+| La | lah | "la" like singing "la la la" | The (feminine) |
+| Les | lay | "LAY" | The (plural) |
+| Un | uhn | "uh" + nasal | A (masculine) |
+| Une | oon | "oon" | A (feminine) |
+| Des | day | "DAY" | Some (plural) |
 
 ## Gender Tips
 
